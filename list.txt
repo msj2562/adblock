@@ -25,3 +25,4 @@ www.19all04.net##.episode-main > .pagemodule
 m.ppomppu.co.kr###tabs-container
 m.ppomppu.co.kr###mainList2
 m.ppomppu.co.kr##.all_list
+@@m.ppomppu.co.kr##.logo
