@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Title: MyList
+
 ! 2019. 4. 14. https://manamoa2.net
 manamoa2.net##div.main-banner.ad-banner-widget
 
