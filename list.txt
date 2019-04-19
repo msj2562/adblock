@@ -1,1 +1,27 @@
+! 2019. 4. 14. https://manamoa2.net
+manamoa2.net##div.main-banner.ad-banner-widget
 
+! 2019. 4. 19. https://hodu57.com
+hodu57.com##table
+hodu57.com##.horion_list > div
+hodu57.com##body > ul.c_img
+hodu57.com##.view > ul.c_img
+hodu57.com##div.c_img
+
+! 2019. 4. 19. https://spowiki1.com
+spowiki1.com##.bann_tb
+spowiki1.com###banner_bo2_wrapper
+
+! 2019. 4. 19. https://buzztoon6.com
+buzztoon6.com###hd_pop
+buzztoon6.com##center
+buzztoon6.com##[href="javascript:void(0);"]
+
+! 2019. 4. 19. https://www.19all04.net
+www.19all04.net###wrap > .pagemodule
+www.19all04.net##.episode-main > .pagemodule
+
+! 2019. 4. 19. http://m.ppomppu.co.kr
+m.ppomppu.co.kr###tabs-container
+m.ppomppu.co.kr###mainList2
+m.ppomppu.co.kr##.all_list
