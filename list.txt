@@ -31,3 +31,4 @@ m.ppomppu.co.kr##.all_list
 
 ! 2019. 4. 19. https://manamoa3.net
 manamoa3.net##div.main-banner.ad-banner-widget
+manamoa3.net##.view-wrap.viewer-container > div.widget-box
