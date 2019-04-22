@@ -19,7 +19,7 @@ buzztoon6.com##[href="javascript:void(0);"]
 
 ! 2019. 4. 19. https://www.19all04.net
 www.19all04.net###backgroundSmsLayer
-www.19all04.net##html:style(overflow:auto !important)
+www.19all04.net##body[style="overflow:auto !important"]
 www.19all04.net##.popup_layer
 www.19all04.net###wrap > .pagemodule
 www.19all04.net##.episode-main > .pagemodule
