@@ -35,3 +35,4 @@ m.ppomppu.co.kr##.all_list
 manamoa3.net##div.main-banner.ad-banner-widget
 manamoa3.net##.view-wrap.viewer-container > div.widget-box
 manamoa3.net##.list-wrap > .widget-box
+
