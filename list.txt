@@ -13,16 +13,16 @@ spowiki1.com##.bann_tb
 spowiki1.com###banner_bo2_wrapper
 
 ! 2019. 4. 19. https://buzztoon6.com
-!buzztoon6.com###hd_pop
-!buzztoon6.com##center
-!buzztoon6.com##[href="javascript:void(0);"]
+buzztoon6.com###hd_pop
+buzztoon6.com##center
+buzztoon6.com##[href="javascript:void(0);"]
 
 ! 2019. 4. 19. https://www.19all04.net
-!www.19all04.net###backgroundSmsLayer
-!www.19all04.net##body:style(overflow: auto !important)
-!www.19all04.net##.popup_layer
-!www.19all04.net###wrap > .pagemodule
-!www.19all04.net##.episode-main > .pagemodule
+www.19all04.net###backgroundSmsLayer
+www.19all04.net##body:style(overflow: auto !important)
+www.19all04.net##.popup_layer
+www.19all04.net###wrap > .pagemodule
+www.19all04.net##.episode-main > .pagemodule
 www.19all04.net##section.pagemodule:nth-of-type(2)
 
 ! 2019. 4. 19. http://m.ppomppu.co.kr
