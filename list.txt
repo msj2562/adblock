@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: MyList
 
-! 2019. 4. 19. https://hodu57.com
-hodu58.com##table
-hodu58.com##.horion_list > div
-hodu58.com##body > ul.c_img
-hodu58.com##.view > ul.c_img
-hodu58.com##div.c_img
+! 2019. 4. 19. https://hodu59.com
+hodu59.com##table
+hodu59.com##.horion_list > div
+hodu59.com##body > ul.c_img
+hodu59.com##.view > ul.c_img
+hodu59.com##div.c_img
 
 ! 2019. 4. 19. https://spowiki1.com
 spowiki1.com##.bann_tb
