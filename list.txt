@@ -13,9 +13,9 @@ spowiki1.com##.bann_tb
 spowiki1.com###banner_bo2_wrapper
 
 ! 2019. 4. 19. https://buzztoon7.com
-buzztoon7.com###hd_pop
-buzztoon7.com##center
-buzztoon7.com##[href="javascript:void(0);"]
+buzztoon8.com###hd_pop
+buzztoon8.com##center
+buzztoon8.com##[href="javascript:void(0);"]
 
 ! 2019. 4. 19. https://www.19all05.net
 www.19all05.net###wrap > .pagemodule
