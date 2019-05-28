@@ -2,11 +2,11 @@
 ! Title: MyList
 
 ! 2019. 4. 19. https://hodu59.com
-hodu63.com##table
-hodu63.com##.horion_list > div
-hodu63.com##body > ul.c_img
-hodu63.com##.view > ul.c_img
-hodu63.com##div.c_img
+hodu64.com##table
+hodu64.com##.horion_list > div
+hodu64.com##body > ul.c_img
+hodu64.com##.view > ul.c_img
+hodu64.com##div.c_img
 
 ! 2019. 4. 19. https://spowiki1.com
 spowiki1.com##.bann_tb
