@@ -32,3 +32,8 @@ manamoa3.net##div.main-banner.ad-banner-widget
 manamoa3.net##.view-wrap.viewer-container > div.widget-box
 manamoa3.net##.list-wrap > .widget-box
 
+! 2019. 5. 28. https://forum.xda-developers.com
+forum.xda-developers.com##.bravetwig-top
+
+
+
