@@ -18,9 +18,9 @@ buzztoon10.com##center
 buzztoon10.com##[href="javascript:void(0);"]
 
 ! 2019. 4. 19. https://www.19all05.net
-www.19all08.net###wrap > .pagemodule
-www.19all08.net##.episode-main > .pagemodule
-www.19all08.net##.homelist-wrap
+www.19all09.net###wrap > .pagemodule
+www.19all09.net##.episode-main > .pagemodule
+www.19all09.net##.homelist-wrap
 
 ! 2019. 4. 19. http://m.ppomppu.co.kr
 m.ppomppu.co.kr###tabs-container
