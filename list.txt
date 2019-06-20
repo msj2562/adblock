@@ -16,7 +16,6 @@ spowiki1.com###banner_bo2_wrapper
 buzztoon11.com###hd_pop
 buzztoon11.com##center
 buzztoon11.com##[href="javascript:void(0);"]
-||buzztoon11.com^$popup
 
 ! 2019. 4. 19. https://www.19all05.net
 www.19all11.net###wrap > .pagemodule
