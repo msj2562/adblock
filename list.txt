@@ -13,10 +13,10 @@ spowiki1.com##.bann_tb
 spowiki1.com###banner_bo2_wrapper
 
 ! 2019. 7. 7. https://buzztoon11.com
-buzztoon12.com###banner_left_wing
-buzztoon12.com###banner_right_wing
-buzztoon12.com###hd_pop
-||buzztoon12.com/data/*.gif$image
+buzztoon13.com###banner_left_wing
+buzztoon13.com###banner_right_wing
+buzztoon13.com###hd_pop
+||buzztoon13.com/data/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
 www.01all.net###wrap > .pagemodule
