@@ -19,9 +19,9 @@ buzztoon14.com###hd_pop
 ||buzztoon14.com/data/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
-www.01all.net###wrap > .pagemodule
-www.01all.net##.episode-main > .pagemodule
-www.01all.net##.homelist-wrap
+www.02all.net###wrap > .pagemodule
+www.02all.net##.episode-main > .pagemodule
+www.02all.net##.homelist-wrap
 
 ! 2019. 4. 19. http://m.ppomppu.co.kr
 m.ppomppu.co.kr###tabs-container
