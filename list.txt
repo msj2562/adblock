@@ -9,8 +9,8 @@ hodu02.net##.view > ul.c_img
 hodu02.net##div.c_img
 
 ! 2019. 4. 19. https://spowiki1.com
-spowiki1.com##.bann_tb
-spowiki1.com###banner_bo2_wrapper
+spowiki2.com##.bann_tb
+spowiki2.com###banner_bo2_wrapper
 
 ! 2019. 7. 7. https://buzztoon11.com
 buzztoon14.com###banner_left_wing
