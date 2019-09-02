@@ -22,9 +22,9 @@ buzztoon15.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
 
 
 ! 2019. 4. 19. https://www.19all05.net
-www.02all.net###wrap > .pagemodule
-www.02all.net##.episode-main > .pagemodule
-www.02all.net##.homelist-wrap
+www.03all.net###wrap > .pagemodule
+www.03all.net##.episode-main > .pagemodule
+www.03all.net##.homelist-wrap
 
 ! 2019. 4. 19. http://m.ppomppu.co.kr
 m.ppomppu.co.kr###tabs-container
