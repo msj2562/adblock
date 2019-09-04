@@ -4,7 +4,7 @@
 ! 2019. 4. 19. https://hodu59.com
 !hoduco.net##table
 !hoduco.net##.horion_list > div
-!hoduco.net##body > ul.c_img
+hoduco.net##body > ul.c_img
 !hoduco.net##.view > ul.c_img
 !hoduco.net##div.c_img
 
