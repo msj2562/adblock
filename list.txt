@@ -5,8 +5,8 @@
 hoduco.net##table#banner_top_center.banners
 
 ! 2019. 4. 19. https://spowiki1.com
-spowiki2.com##.bann_tb
-spowiki2.com###banner_bo2_wrapper
+spowiki3.com##.bann_tb
+spowiki3.com###banner_bo2_wrapper
 
 ! 2019. 7. 7. https://buzztoon11.com
 buzztoon15.com###banner_left_wing
