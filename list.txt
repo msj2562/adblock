@@ -9,11 +9,11 @@ spowiki3.com##.bann_tb
 spowiki3.com###banner_bo2_wrapper
 
 ! 2019. 7. 7. https://buzztoon11.com
-buzztoon15.com###banner_left_wing
-buzztoon15.com###banner_right_wing
-buzztoon15.com###hd_pop
-buzztoon15.com##center
-buzztoon15.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
+buzztoon17.com###banner_left_wing
+buzztoon17.com###banner_right_wing
+buzztoon17.com###hd_pop
+buzztoon17.com##center
+buzztoon17.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
 ||buzztoon15.com/data/*.gif$image
 
 
