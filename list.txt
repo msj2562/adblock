@@ -16,11 +16,14 @@ buzztoon17.com##center
 buzztoon17.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
 ||buzztoon15.com/data/*.gif$image
 
-
 ! 2019. 4. 19. https://www.19all05.net
 www.05all.net###wrap > .pagemodule
 www.05all.net##.episode-main > .pagemodule
 www.05all.net##.homelist-wrap
+
+! 2019. 9. 22. https://newtoki25.com
+newtoki25.com###main-banner-view
+newtoki25.com##.at-content > div.row-15.row:nth-of-type(2)
 
 ! 2019. 4. 19. http://m.ppomppu.co.kr
 m.ppomppu.co.kr###tabs-container
