@@ -22,13 +22,14 @@ www.05all.net##.episode-main > .pagemodule
 www.05all.net##.homelist-wrap
 
 ! 2019. 9. 22. https://newtoki25.com
-newtoki25.com###main-banner-view
-newtoki25.com##.at-content > div.row-15.row:nth-of-type(2)
+newtoki26.com###main-banner-view
+newtoki26.com##.at-content > div.row-15.row:nth-of-type(2)
 
 ! 2019. 4. 19. http://m.ppomppu.co.kr
 m.ppomppu.co.kr###tabs-container
 m.ppomppu.co.kr###mainList2
 m.ppomppu.co.kr##.all_list
+m.ppomppu.co.kr##.bridge
 
 ! 2019. 4. 19. https://manamoa3.net
 manamoa3.net##div.main-banner.ad-banner-widget
