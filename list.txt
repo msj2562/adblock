@@ -1,8 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: MyList
 
-@@ad.buzzvil.com
-
 ! 2019. 4. 19. https://hodu59.com
 hodu05.net##table#banner_top_center.banners
 
