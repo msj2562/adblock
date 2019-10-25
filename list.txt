@@ -2,28 +2,28 @@
 ! Title: MyList
 
 ! 2019. 4. 19. https://hodu59.com
-hodu05.net##table#banner_top_center.banners
+hodu06.net##table#banner_top_center.banners
 
 ! 2019. 4. 19. https://spowiki1.com
 spowiki5.com##.bann_tb
 spowiki5.com###banner_bo2_wrapper
 
 ! 2019. 7. 7. https://buzztoon11.com
-buzztoon20.com###banner_left_wing
-buzztoon20.com###banner_right_wing
-buzztoon20.com###hd_pop
-buzztoon20.com##center
-buzztoon20.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
-||buzztoon20.com/data/*.gif$image
+buzztoon22.com###banner_left_wing
+buzztoon22.com###banner_right_wing
+buzztoon22.com###hd_pop
+buzztoon22.com##center
+buzztoon22.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
+||buzztoon22.com/data/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
-www.07all.net###wrap > .pagemodule
-www.07all.net##.episode-main > .pagemodule
-www.07all.net##.homelist-wrap
+www.08all.net###wrap > .pagemodule
+www.08all.net##.episode-main > .pagemodule
+www.08all.net##.homelist-wrap
 
 ! 2019. 9. 22. https://newtoki25.com
-newtoki28.com###main-banner-view
-newtoki28.com##.at-content > div.row-15.row:nth-of-type(2)
+newtoki30.com###main-banner-view
+newtoki30.com##.at-content > div.row-15.row:nth-of-type(2)
 
 ! 2019. 4. 19. http://m.ppomppu.co.kr
 m.ppomppu.co.kr###tabs-container
