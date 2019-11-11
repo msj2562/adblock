@@ -2,19 +2,19 @@
 ! Title: MyList
 
 ! 2019. 4. 19. https://hodu59.com
-hodu07.net##table#banner_top_center.banners
+hodu08.net##table#banner_top_center.banners
 
 ! 2019. 4. 19. https://spowiki1.com
 spowiki7.com##.bann_tb
 spowiki7.com###banner_bo2_wrapper
 
 ! 2019. 7. 7. https://buzztoon11.com
-buzztoon22.com###banner_left_wing
-buzztoon22.com###banner_right_wing
-buzztoon22.com###hd_pop
-buzztoon22.com##center
-buzztoon22.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
-||buzztoon22.com/data/*.gif$image
+buzztoon23.com###banner_left_wing
+buzztoon23.com###banner_right_wing
+buzztoon23.com###hd_pop
+buzztoon23.com##center
+buzztoon23.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
+||buzztoon23.com/data/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
 www.all-01.net###wrap > .pagemodule
