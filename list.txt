@@ -33,9 +33,9 @@ m.ppomppu.co.kr##.all_list
 m.ppomppu.co.kr##.bridge.bbsList
 
 ! 2019. 4. 19. https://manamoa3.net
-manamoa3.net##div.main-banner.ad-banner-widget
-manamoa3.net##.view-wrap.viewer-container > div.widget-box
-manamoa3.net##.list-wrap > .widget-box
+manamoa22.net##div.main-banner.ad-banner-widget
+manamoa22.net##.view-wrap.viewer-container > div.widget-box
+manamoa22.net##.list-wrap > .widget-box
 
 ! 2019. 5. 28. https://forum.xda-developers.com
 xda-developers.com##.bravetwig-top
