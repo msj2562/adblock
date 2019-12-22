@@ -2,11 +2,11 @@
 ! Title: MyList
 
 ! 2019. 4. 19. https://hodu59.com
-hodu11.net##table#banner_top_center.banners
+hodu12.net##table#banner_top_center.banners
 
 ! 2019. 4. 19. https://spowiki1.com
-spowiki10.com##.bann_tb
-spowiki10.com###banner_bo2_wrapper
+spowiki12.com##.bann_tb
+spowiki12.com###banner_bo2_wrapper
 
 ! 2019. 7. 7. https://buzztoon11.com
 buzztoon28.com###banner_left_wing
