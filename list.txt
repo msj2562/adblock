@@ -17,10 +17,10 @@ buzztoon30.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
 ||buzztoon30.com/data/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
-www.all-07.net###wrap > .pagemodule
-www.all-07.net##.episode-main > .pagemodule
-www.all-07.net##.homelist-wrap
-www.all-07.net###rowmobile
+www.all-08.net###wrap > .pagemodule
+www.all-08.net##.episode-main > .pagemodule
+www.all-08.net##.homelist-wrap
+www.all-08.net###rowmobile
 
 ! 2019. 9. 22. https://newtoki25.com
 newtoki30.com###main-banner-view
