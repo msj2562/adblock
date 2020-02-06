@@ -9,12 +9,12 @@ spowiki16.com##.bann_tb
 spowiki16.com###banner_bo2_wrapper
 
 ! 2019. 7. 7. https://buzztoon11.com
-buzztoon33.com###banner_left_wing
-buzztoon33.com###banner_right_wing
-buzztoon33.com###hd_pop
-buzztoon33.com##center
-buzztoon33.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
-||buzztoon33.com/data/*.gif$image
+buzztoon35.com###banner_left_wing
+buzztoon35.com###banner_right_wing
+buzztoon35.com###hd_pop
+buzztoon35.com##center
+buzztoon35.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
+||buzztoon35.com/data/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
 www.all-12.net###wrap > .pagemodule
