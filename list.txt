@@ -8,13 +8,12 @@ hodu14.net##table#banner_top_center.banners
 spowiki16.com##.bann_tb
 spowiki16.com###banner_bo2_wrapper
 
-! 2019. 7. 7. https://buzztoon11.com
-buzztoon35.com###banner_left_wing
-buzztoon35.com###banner_right_wing
-buzztoon35.com###hd_pop
-buzztoon35.com##center
-buzztoon35.com##.at-content > table#banner_top_center1.banners:nth-of-type(1)
-||buzztoon35.com/data/*.gif$image
+! 2020. 2. 15. https://www.buzztoon36.com
+www.buzztoon36.com###hd_pop
+www.buzztoon36.com###banner_left_wing
+www.buzztoon36.com###banner_right_wing
+www.buzztoon36.com###banner_top_center1
+||i.imgur.com/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
 www.all-14.net###wrap > .pagemodule
