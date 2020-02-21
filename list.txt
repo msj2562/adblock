@@ -16,10 +16,10 @@ www.buzztoon40.com###banner_top_center1
 ||i.imgur.com/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
-www.all-14.net###wrap > .pagemodule
-www.all-14.net##.episode-main > .pagemodule
-www.all-14.net##.homelist-wrap
-www.all-14.net###rowmobile
+www.all-15.net###wrap > .pagemodule
+www.all-15.net##.episode-main > .pagemodule
+www.all-15.net##.homelist-wrap
+www.all-15.net###rowmobile
 
 ! 2019. 9. 22. https://newtoki25.com
 newtoki30.com###main-banner-view
