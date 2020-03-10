@@ -39,6 +39,9 @@ manamoa.net##.list-wrap > .widget-box
 ! 2019. 5. 28. https://forum.xda-developers.com
 xda-developers.com##.bravetwig-top
 
+! 2020. 3. 10. https://okboy.me
+okboy.me##.click-ad-wrap
+
 
 
 
