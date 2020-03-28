@@ -2,7 +2,7 @@
 ! Title: MyList
 
 ! 2019. 4. 19. https://hodu59.com
-hodu20.net##table#banner_top_center.banners
+hodu24.net##table#banner_top_center.banners
 
 ! 2019. 4. 19. https://spowiki1.com
 spowiki25.com##.bann_tb
