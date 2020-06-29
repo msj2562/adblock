@@ -5,8 +5,8 @@
 hodu24.net##table#banner_top_center.banners
 
 ! 2019. 4. 19. https://spowiki1.com
-spowiki29.com##.bann_tb
-spowiki29.com###banner_bo2_wrapper
+spowiki33.com##.bann_tb
+spowiki33.com###banner_bo2_wrapper
 
 ! 2020. 2. 15. https://www.buzztoon36.com
 www.buzztoon53.com###hd_pop
