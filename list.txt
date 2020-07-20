@@ -16,10 +16,10 @@ www.buzztoon53.com###banner_top_center1
 ||i.imgur.com/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
-www.allall20.net###wrap > .pagemodule
-www.allall20.net##.episode-main > .pagemodule
-www.allall20.net##.homelist-wrap
-www.allall20.net###rowmobile
+www.allall21.net###wrap > .pagemodule
+www.allall21.net##.episode-main > .pagemodule
+www.allall21.net##.homelist-wrap
+www.allall21.net###rowmobile
 
 ! 2019. 9. 22. https://newtoki25.com
 newtoki68.com###main-banner-view
