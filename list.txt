@@ -9,10 +9,10 @@ spowiki36.com##.bann_tb
 spowiki36.com###banner_bo2_wrapper
 
 ! 2020. 2. 15. https://www.buzztoon36.com
-www.buzztoon56.com###hd_pop
-www.buzztoon56.com###banner_left_wing
-www.buzztoon56.com###banner_right_wing
-www.buzztoon56.com###banner_top_center1
+www.buzztoon57.com###hd_pop
+www.buzztoon57.com###banner_left_wing
+www.buzztoon57.com###banner_right_wing
+www.buzztoon57.com###banner_top_center1
 ||i.imgur.com/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
