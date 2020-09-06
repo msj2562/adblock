@@ -22,8 +22,8 @@ www.allall26.net##.homelist-wrap
 www.allall26.net###rowmobile
 
 ! 2019. 9. 22. https://newtoki25.com
-newtoki74.com###main-banner-view
-||newtoki74.com/data/banner/$image
+newtoki102.com###main-banner-view
+||newtoki102.com/data/banner/$image
 
 ! 2019. 4. 19. http://m.ppomppu.co.kr
 m.ppomppu.co.kr###tabs-container
