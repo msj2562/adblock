@@ -9,17 +9,17 @@ spowiki39.com##.bann_tb
 spowiki39.com###banner_bo2_wrapper
 
 ! 2020. 2. 15. https://www.buzztoon36.com
-www.buzztoon60.com###hd_pop
-www.buzztoon60.com###banner_left_wing
-www.buzztoon60.com###banner_right_wing
-www.buzztoon60.com###banner_top_center1
+www.buzztoon62.com###hd_pop
+www.buzztoon62.com###banner_left_wing
+www.buzztoon62.com###banner_right_wing
+www.buzztoon62.com###banner_top_center1
 ||i.imgur.com/*.gif$image
 
 ! 2019. 4. 19. https://www.19all05.net
-www.allall27.net###wrap > .pagemodule
-www.allall27.net##.episode-main > .pagemodule
-www.allall27.net##.homelist-wrap
-www.allall27.net###rowmobile
+www.allall28.net###wrap > .pagemodule
+www.allall28.net##.episode-main > .pagemodule
+www.allall28.net##.homelist-wrap
+www.allall28.net###rowmobile
 
 ! 2019. 9. 22. https://newtoki25.com
 newtoki76.com###main-banner-view
