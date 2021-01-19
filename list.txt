@@ -2,7 +2,7 @@
 ! Title: MyList
 
 ! 2019. 4. 19. https://hodu59.com
-hodu83.net##table#banner_top_center.banners
+hodu84.net##table#banner_top_center.banners
 
 ! 2019. 4. 19. https://spowiki1.com
 spowiki51.com##.bann_tb
@@ -22,8 +22,8 @@ www.allall29.net##.homelist-wrap
 www.allall29.net###rowmobile
 
 ! 2019. 9. 22. https://newtoki25.com
-newtoki93.com###main-banner-view
-||newtoki93.com/data/banner/$image
+newtoki94.com###main-banner-view
+||newtoki94.com/data/banner/$image
 
 ! 2019. 4. 19. http://m.ppomppu.co.kr
 m.ppomppu.co.kr###tabs-container
